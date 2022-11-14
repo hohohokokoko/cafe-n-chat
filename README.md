@@ -1,4 +1,4 @@
-# cafe-n-chat
+# Cafe n' Chat
 
 - Human-centered Computing Project
 
